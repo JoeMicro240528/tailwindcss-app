@@ -1,3 +1,3 @@
 # Live Demo
 
-[linke](https://tailwindcss-app-2ak4.vercel.app/).
+[Live Demo](https://tailwindcss-app-2ak4.vercel.app/).
